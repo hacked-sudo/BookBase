@@ -1,0 +1,7 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8õ¤Ä¢Ø2J$3b433287-3527-4c28-b40c-aa7480d779ce
+ˆ
+java:S1128"@Remove this unused import 'com.slb.project.entity.JournalEntry'.(¡í÷Çÿÿÿÿÿ8…¥Ä¢Ø2J$fe973ffc-4f86-41e9-bda2-be36d0bc7789
+‘
+java:S1128"NRemove this unused import 'com.slb.project.repository.JournalEntryRepository'.(Õ ÷™8…¥Ä¢Ø2J$e6b351b4-6092-4e1a-be91-c6db3a594219

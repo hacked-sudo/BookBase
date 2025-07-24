@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8…ë‘©Ø2J$f86523e1-a708-4d78-8279-1b1fbb0521b0
+¤
+java:S3305"\Inject this field value directly into "authenticationManager", the only method that uses it.(Õò˜õúÿÿÿÿ8‡ë‘©Ø2J$3e085fc2-5723-4fe4-88fb-b0ecc96beffb
+
+java:S1874"9Remove this use of "authorizeRequests"; it is deprecated.(©ËÅÂúÿÿÿÿ8—ë‘©Ø2J$561beabc-e2de-472f-81c4-9c7eeaba3f2c
+
+java:S1612%"HReplace this lambda with method reference 'LogoutConfigurer::permitAll'.(Í€“ıÿÿÿÿ8›ë‘©Ø2J$785abe99-2747-473d-ba8c-58e6916ef729
+ƒ	java:S125+"<This block of commented-out lines of code should be removed.(“ÊØÇùÿÿÿÿ8ë‘©Ø2J$4fd22186-8737-4269-bdf0-b94878530d42
+Ä
+java:S1128
+"€Remove this unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'.(£ØÓ‰8¤ë‘©Ø2J$1663559b-8ddc-432b-a07c-f5a9104576dc
